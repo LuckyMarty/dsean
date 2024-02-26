@@ -1,0 +1,11 @@
+__pycache__
+.env
+env
+.DS_Store
+.ipynb_checkpoints/
+p.ipynb
+projets/1/mnist_test.csv                  
+projets/1/mnist_train.csv
+
+
+
